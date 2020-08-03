@@ -1,7 +1,7 @@
 package main
 
 import {
-	"api"
+	"github.com/zakiakhyar/gofiber/api"
 	"github.com/gofiber/fiber"
 }
 
