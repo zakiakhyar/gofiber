@@ -17,7 +17,3 @@ func NewData(c *fiber.Ctx) {
 func DeleteData(c *fiber.Ctx) {
 	c.Send("Hapus data")
 }
-
-func main() {
-
-}
