@@ -3,6 +3,7 @@ package main
 import {
 	"github.com/zakiakhyar/gofiber/api"
 	"github.com/gofiber/fiber"
+	"github.com/valyala/fasthttp v1.34.0"
 }
 
 func beranda(c *fiber.Ctx){
